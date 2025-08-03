@@ -1,99 +1,97 @@
-<h1 align="center">👋 Hey there, I'm <span style="color:#4DB6AC;">Janith Rankelum</span></h1>
-<h3 align="center">🚀 Computer Science Undergraduate | AI & ML | Full Stack | IoT Enthusiast</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4DB6AC&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Janith+Rankelum;AI+%26+ML+Engineer;IoT+Developer;Full+Stack+Enthusiast" alt="Typing SVG" />
+</h1>
+
+<h3 align="center">BSc Computer Science @ Plymouth University | Building Intelligent Systems</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/janith-rankelum-119080286/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:janithrankelum0602@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/janithrankelum" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://medium.com/@janithrankelum" target="_blank">
+    <img src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### 🌟 About Me
+## 🔥 Featured Projects
 
-💡 Passionate about **building intelligent solutions** that combine **AI, IoT, and Cloud** to solve real-world problems.  
-🎓 **BSc (Hons) Computer Science** undergraduate at **Plymouth University**.  
-🔭 Currently developing **Dr. Vehicle – Smart Vehicle Maintenance & Diagnostic System** (OBD-II + ML + Cloud).  
-🌱 Learning **Generative AI, MLOps, and Advanced Data Engineering** to stay future-ready.  
-💼 Looking to **collaborate on AI, IoT, and Full Stack projects**.  
+### 🚗 Dr. Vehicle - AI-Powered Vehicle Diagnostics
+[![Repo Badge](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/janithrankelum/dr-vehicle)
 
----
+▶️ **OBD-II + Machine Learning + Firebase**  
+▶️ Real-time engine diagnostics & predictive maintenance  
+▶️ Push notifications for service schedules & insurance renewals  
+▶️ Fuel efficiency optimization using ML models  
 
-### 🚀 Featured Projects
-
-**1️⃣ Dr. Vehicle – Smart Vehicle Maintenance & Diagnostic System**  
-> *OBD-II + Firebase + Machine Learning*  
-- Real-time **engine diagnostics, fuel efficiency tracking, and predictive maintenance**  
-- Push notifications for **service schedules, tire changes, and insurance renewals**  
-
-**2️⃣ Smart Vertical Farming IoT System**  
-> *Arduino IoT Cloud + Sensor Automation*  
-- Automated irrigation and environmental monitoring with **DHT11, MQ135, BH1750, PH4502C sensors**  
-- Cloud-connected dashboard with **real-time farm analytics**  
-
-**3️⃣ Big Data Rice Price Forecasting**  
-> *Apache Spark + Snowflake + Streamlit*  
-- Analyzed **20+ years of commodity data** and deployed **ARIMA & ML models**  
-- Built a **real-time price anomaly detection dashboard** for market insights  
-
-**4️⃣ CEYLON EXPLORER – Tourist Guide App**  
-> *Flutter + GPS + OpenWeather API*  
-- Location-based suggestions for tourists with **real-time weather updates**  
-- Integrated **interactive maps & travel recommendations**  
+![Dr. Vehicle Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJqZ3R1d2R3b2J1eGJ2b2V4M2V5Y3JtZzV6Z3BqZzZ1ZzZ1ZzZ1ZzZ1ZzZ1/giphy.gif)
 
 ---
 
-### 💻 Tech Stack
+### 🌱 Smart Vertical Farming IoT System
+[![Repo Badge](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/janithrankelum/smart-farming)
 
-#### **Languages & Frameworks**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+▶️ **Arduino IoT Cloud + Sensor Network**  
+▶️ Automated irrigation with soil moisture tracking  
+▶️ Environmental monitoring (DHT11, MQ135, BH1750 sensors)  
+▶️ Cloud dashboard with real-time analytics  
 
-#### **AI, ML & Data**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
-
-#### **Cloud & Database**
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Farming System](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJqZ3R1d2R3b2J1eGJ2b2V4M2V5Y3JtZzV6Z3BqZzZ1ZzZ1ZzZ1ZzZ1ZzZ1/giphy.gif)
 
 ---
 
-### 📊 GitHub Stats
+## 🛠️ Tech Stack
+
+### 🤖 AI/ML & Data Science
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+
+### 🌐 Full Stack Development
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### ⚡ IoT & Embedded Systems
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+---
+
+## 📈 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=janithrankelum&show_icons=true&theme=radical" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=janithrankelum&theme=radical" width="48%"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=janithrankelum&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=janithrankelum&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janithrankelum&layout=compact&theme=radical" width="48%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=janithrankelum&theme=radical" width="48%"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janithrankelum&layout=compact&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=janithrankelum&theme=radical" />
 </p>
 
 ---
 
-### 🌱 Current Focus
-- Building **Intelligent IoT Applications** with **Cloud Integration**  
-- Exploring **MLOps, LLMs, and Generative AI Applications**  
-- Open to **collaborations on AI, ML, Full Stack, and Big Data Projects**  
+## 🎯 Currently Focusing On
+
+- 🔍 Exploring **Generative AI and LLM Applications**
+- 🛠️ Building **MLOps pipelines for edge devices**
+- ☁️ Mastering **Cloud-Native AI Solutions**
+- 🤝 Looking to **collaborate on impactful AI/IoT projects**
 
 ---
 
-<h3 align="center">⭐ Always learning | Innovating | Sharing Knowledge ⭐</h3>
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=4DB6AC&center=true&vCenter=true&width=500&lines=Let's+build+the+future+together!;Open+to+collaborations+%F0%9F%92%AC;Always+learning+%F0%9F%93%9A" alt="Typing SVG" />
+</h3>
