@@ -24,7 +24,7 @@
 ## 🔥 Featured Projects
 
 ### 🚗 Dr. Vehicle - AI-Powered Vehicle Diagnostics
-[![Repo Badge](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/janithrankelum/dr-vehicle)
+
 
 ▶️ **OBD-II + Machine Learning + Firebase**  
 ▶️ Real-time engine diagnostics & predictive maintenance  
@@ -36,7 +36,7 @@
 ---
 
 ### 🌱 Smart Vertical Farming IoT System
-[![Repo Badge](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/janithrankelum/smart-farming)
+
 
 ▶️ **Arduino IoT Cloud + Sensor Network**  
 ▶️ Automated irrigation with soil moisture tracking  
