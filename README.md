@@ -14,8 +14,8 @@
   <a href="https://github.com/janithrankelum" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://medium.com/@janithrankelum" target="_blank">
-    <img src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+  <a href="https://www.facebook.com/janith.rankelum.2025" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white%22/%3E%3C/a"/>
   </a>
 </p>
 
