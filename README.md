@@ -31,7 +31,7 @@
 ▶️ Push notifications for service schedules & insurance renewals  
 ▶️ Fuel efficiency optimization using ML models  
 
-![Dr. Vehicle Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJqZ3R1d2R3b2J1eGJ2b2V4M2V5Y3JtZzV6Z3BqZzZ1ZzZ1ZzZ1ZzZ1ZzZ1/giphy.gif)
+![Dr. Vehicle Demo](https://www.linkedin.com/posts/janith-rankelum-119080286_dr-vehicle-a-smart-vehicle-maintenance-activity-7351830749869686785-xSoI?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEVr6KUB8ECHWPbAf_wshZ58SEA6eMLFbLY)
 
 ---
 
@@ -43,7 +43,7 @@
 ▶️ Environmental monitoring (DHT11, MQ135, BH1750 sensors)  
 ▶️ Cloud dashboard with real-time analytics  
 
-![Farming System](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJqZ3R1d2R3b2J1eGJ2b2V4M2V5Y3JtZzV6Z3BqZzZ1ZzZ1ZzZ1ZzZ1ZzZ1/giphy.gif)
+![Farming System](https://www.linkedin.com/posts/janith-rankelum-119080286_hi-everyone-im-excited-to-share-my-latest-activity-7236992693225095168-jS9f?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEVr6KUB8ECHWPbAf_wshZ58SEA6eMLFbLY)
 
 ---
 
@@ -64,7 +64,7 @@
 
 ### ⚡ IoT & Embedded Systems
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![ESP 32 wroom](https://img.shields.io/badge/Platform-ESP32-informational?style=flat&logo=Arduino&logoColor=white&color=00979D)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ---
