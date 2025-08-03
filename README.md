@@ -66,6 +66,9 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP 32 wroom](https://img.shields.io/badge/Platform-ESP32-informational?style=flat&logo=Arduino&logoColor=white&color=00979D)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Micro Python](https://img.shields.io/badge/MicroPython-Used-blue.svg)
+![Arduino Cloud](https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=fff&style=plastic)
+
 
 ---
 
