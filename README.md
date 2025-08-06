@@ -81,6 +81,14 @@
 ![Arduino Cloud](https://img.shields.io/badge/Arduino_IoT_Cloud-Used-blue)
 
 
+### ⚙️ Technologies⚙️
+![Mongo DB](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Firestore](https://img.shields.io/badge/Platform-ESP32-informational?style=flat&logo=Arduino&logoColor=white&color=00979D)
+![Huggingface](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Github](https://img.shields.io/badge/MicroPython-Used-blue.svg)
+![Android Studio](https://img.shields.io/badge/Arduino_IoT_Cloud-Used-blue)
+![VS code](https://img.shields.io/badge/Arduino_IoT_Cloud-Used-blue)
+
 ---
 
 ## 📈 GitHub Analytics
