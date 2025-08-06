@@ -83,14 +83,9 @@
 
 ### ⚙️ Technologies⚙️
 ![Mongo DB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firestore](    {
-      "schemaVersion": 1,
-      "label": "Active Users",
-      "message": "123",
-      "color": "blue"
-    })
-![Huggingface](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Github](https://img.shields.io/badge/MicroPython-Used-blue.svg)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=plastic)
+![Huggingface](https://img.shields.io/badge/-HuggingFace-3B4252?style=flat&logo=huggingface&logoColor=)
+![Github](### Github)
 ![Android Studio](https://img.shields.io/badge/Arduino_IoT_Cloud-Used-blue)
 ![VS code](https://img.shields.io/badge/Arduino_IoT_Cloud-Used-blue)
 ![AWS](https://img.shields.io/badge/Arduino_IoT_Cloud-Used-blue)
