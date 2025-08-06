@@ -88,10 +88,8 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
 ![VS code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=plastic)
 ![AWS](https://img.shields.io/badge/Powered%20by%20AWS-orange?style=for-the-badge&logo=android&logoColor=white&logo=amazonaws&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Arduino_IoT_Cloud-Used-blue)
-![Snowflake](https://img.shields.io/badge/Arduino_IoT_Cloud-Used-blue)
-![Render](https://img.shields.io/badge/Arduino_IoT_Cloud-Used-blue)
-![Git](https://img.shields.io/badge/Arduino_IoT_Cloud-Used-blue)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Snowflake](https://img.shields.io/badge/GitHub-snowflake--mcp-blue)
 
 ---
 
