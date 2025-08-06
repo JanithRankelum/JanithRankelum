@@ -83,7 +83,12 @@
 
 ### ⚙️ Technologies⚙️
 ![Mongo DB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firestore](https://img.shields.io/endpoint?url=YOUR_FIRESTORE_DATA_ENDPOINT_URL)
+![Firestore](    {
+      "schemaVersion": 1,
+      "label": "Active Users",
+      "message": "123",
+      "color": "blue"
+    })
 ![Huggingface](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Github](https://img.shields.io/badge/MicroPython-Used-blue.svg)
 ![Android Studio](https://img.shields.io/badge/Arduino_IoT_Cloud-Used-blue)
